@@ -1,6 +1,6 @@
 
 # My master's thesis research
-
+# Hello
 透過爬蟲收集Tripadvisor台北飯店資料，以消費者中文評論為主要研究資料。
 探討三個目的：
       - 挖掘消費者評論內容，探討消費者在住宿時在意的部分
